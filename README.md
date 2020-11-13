@@ -1,5 +1,5 @@
 # Maya-Controller-Align
 
-Aligns controller to joint
+Aligns controllers to joints
 
-Select controller (or controller group) followed by joint to align it to, then run
+Select controllers (or controller groups) followed by joints to align to, then run
